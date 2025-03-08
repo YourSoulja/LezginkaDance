@@ -163,14 +163,14 @@
 }
 @media (max-width: 425px) {
   .imageStyle {
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 60%;
+    max-height: 60%;
   }
 }
 @media (max-width: 320px) {
   .imageStyle {
-    max-width: 230px;
-    max-height: 230px;
+    max-width: 60%;
+    max-height: 60%;
   }
 }
 
